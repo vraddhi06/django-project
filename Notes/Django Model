@@ -1,0 +1,4 @@
+A model is a class that represents a table in the database. 
+Attributes of class - company_id, name, location, about, type, added date, active
+type: A choice field to categorize the company.
+active: A boolean field indicating whether the company is active.

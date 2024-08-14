@@ -1,0 +1,7 @@
+Serializer: Converts complex data types, like Django models, into JSON format, which can be rendered into a response for APIs.
+(complex data type into JSON formats and then response for APIs)
+
+HyperlinkedModelSerializer: A type of serializer provided by Django REST Framework that includes hyperlinks to related resources.
+
+Meta class: Defines the model to be serialized and the fields to include. 
+

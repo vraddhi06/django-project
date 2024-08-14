@@ -1,0 +1,7 @@
+ViewSet: Handles the logic for CRUD operations (Create, Read, Update, Delete) on your model. It defines what data to retrieve and how to process requests.
+
+CompanyViewSet: This class inherits from ModelViewSet, which provides default implementations for CRUD operations.
+
+queryset: Specifies the set of data to be used. Here, it's all instances of the Company model.
+
+serializer_class: Defines which serializer to use for converting model instances to and from JSON.
